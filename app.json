@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "google-map-RN",
+    "slug": "google-map-RN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
